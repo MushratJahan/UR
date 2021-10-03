@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785974199795",
+    "project_id": "urms-bcb4b",
+    "storage_bucket": "urms-bcb4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785974199795:android:cced2533f5f35c0d18fe86",
+        "android_client_info": {
+          "package_name": "com.example.urms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785974199795-lm6mn74261ats1juqlehmcv8u1sm761u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyDH6t7k2nHjhHZfECfzJRPjDLj4lt1jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785974199795-lm6mn74261ats1juqlehmcv8u1sm761u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
